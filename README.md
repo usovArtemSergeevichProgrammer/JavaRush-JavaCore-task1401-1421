@@ -1,0 +1,3 @@
+Type casting:
+- Instanceof
+- Interfaces
